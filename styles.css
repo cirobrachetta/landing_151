@@ -1,12 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  color: #fdfdfd;
+  background-color: #0a0a0a;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
   }
   
   header {
-    background-color: #3498db;
-    color: white;
+    background-color: #000000;
+    color: #00b07a;
     text-align: center;
     padding: 2rem;
   }
@@ -24,8 +26,8 @@ body {
   .btn {
     display: inline-block;
     padding: 0.5rem 1rem;
-    background-color: #3498db;
-    color: white;
+    background-color: #00b07a;
+    color: black;
     text-decoration: none;
     border-radius: 4px;
     margin-top: 1rem;
