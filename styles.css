@@ -22,7 +22,23 @@ body {
   .feature {
     text-align: center;
   }
+
+  .carreras {
+    background-color: #0a0a0a;
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+    margin: 58px;
+  }
+
+  .carrera{
+    text-align: center;
+  }
   
+  .Tcarrera{
+    background-color: aliceblue;
+  }
+
   .btn {
     display: inline-block;
     padding: 0.5rem 1rem;
